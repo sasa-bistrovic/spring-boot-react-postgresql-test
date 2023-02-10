@@ -1,0 +1,44 @@
+[
+	{
+		"code": "1111111111",
+		"name": "Braun Series 1",
+		"pricehrk": "500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	},
+	{
+		"code": "2222222222",
+		"name": "Braun Series 3",
+		"pricehrk": "1500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	},
+	{
+		"code": "3333333333",
+		"name": "Braun Series 5",
+		"pricehrk": "2500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	},
+	{
+		"code": "4444444444",
+		"name": "Braun Series 7",
+		"pricehrk": "3500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	},
+	{
+		"code": "5555555555",
+		"name": "Braun Series 9",
+		"pricehrk": "4500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	},
+	{
+		"code": "6666666666",
+		"name": "Braun Series 9 PRO",
+		"pricehrk": "5500.00",
+		"description": "Trimer",
+		"isAvailable": true,
+	}
+]

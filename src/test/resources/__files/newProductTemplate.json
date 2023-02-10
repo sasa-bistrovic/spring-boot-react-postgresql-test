@@ -1,0 +1,7 @@
+{
+        "code": "{{jsonPath request.body '$.code'}}",
+	"name": "{{jsonPath request.body '$.name'}}",
+	"pricehrk": "{{jsonPath request.body '$.pricehrk'}}",
+        "description": "{{jsonPath request.body '$.description'}}",
+        "isAvailable": "{{jsonPath request.body '$.isAvailable'}}"
+}
